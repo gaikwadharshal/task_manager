@@ -45,7 +45,8 @@ npm install
 ### 5. Start the frontend
 npm run dev
 
-## sample video
+## Sample Video
 
-https://github.com/user-attachments/assets/07414d30-ad9e-4b79-9e07-9243a9493f3a
+[Watch Sample Video](https://github.com/user-attachments/assets/5bd41459-af9e-4f7e-ba0e-7fc2bf83628d)
+
 
