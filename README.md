@@ -25,6 +25,10 @@ backend/ -> Node.js + Express backend
 
 ## Setup & Installation
 
+## 🎥 Sample Video
+
+[Watch Sample Video](https://github.com/user-attachments/assets/5bd41459-af9e-4f7e-ba0e-7fc2bf83628d)
+
 ### 1. Clone the Repository
 
 ```bash
@@ -45,8 +49,7 @@ npm install
 ### 5. Start the frontend
 npm run dev
 
-## Sample Video
 
-[Watch Sample Video](https://github.com/user-attachments/assets/5bd41459-af9e-4f7e-ba0e-7fc2bf83628d)
+
 
 
